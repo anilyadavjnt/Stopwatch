@@ -60,7 +60,7 @@ Stopwatch-iOS
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/anilyadavjnt/Stopwatch-iOS.git
+git clone https://github.com/anilyadavjnt/Stopwatch
 ```
 
 2. Open the project in **Xcode**.
