@@ -37,7 +37,12 @@ screenshots/
 
 Example:
 
-![Stopwatch App](screenshots/stopwatch.png)
+<img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-07 at 16 26 23" src="https://github.com/user-attachments/assets/cb0079e0-408c-4266-bd66-c71b4ac93e9f" />
+
+<img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-07 at 16 26 31" src="https://github.com/user-attachments/assets/4afde448-4b23-47e4-8a0d-5ae7aa225f99" />
+
+<img width="300" height="550" alt="Simulator Screenshot - iPhone 14 Pro - 2026-09-07 at 16 26 36" src="https://github.com/user-attachments/assets/fd9216f8-c9fc-44de-a983-03333137400a" />
+
 
 ## 📂 Project Structure
 
